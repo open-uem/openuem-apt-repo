@@ -1,1 +1,4 @@
 *.deb
+InRelease
+Release
+Release.gpg
