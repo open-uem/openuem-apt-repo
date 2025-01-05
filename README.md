@@ -1,5 +1,7 @@
 # OpenUEM Debian/Ubuntu repository
 
+Repository containing the GPG public key and instructions to add the Debian/Ubuntu repository
+
 To download the public GPG key:
 
 `curl -fsSL https://apt.openuem.eu/pgp-key.public | sudo gpg --dearmor -o /usr/share/keyrings/openuem.gpg`
